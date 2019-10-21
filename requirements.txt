@@ -5,4 +5,4 @@ confluent-kafka==0.11.6
 fastavro==0.21.18
 idna==2.8
 requests==2.21.0
-urllib3==1.24.1
+urllib3==1.24.2
